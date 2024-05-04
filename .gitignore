@@ -25,3 +25,4 @@ replay_pid*
 
 # IDEA
 .idea
+/cloud-provider-payment8001/target/
