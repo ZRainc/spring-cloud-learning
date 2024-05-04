@@ -6,12 +6,11 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import java.math.BigDecimal;
 import java.util.Date;
+
 /**
- * @ClassName Pay
- * @Author Rain
- * @Date 2024/5/4 15:02
- * @Version 1.0
- */
+ * 表名：t_pay
+ * 表注释：支付交易表
+*/
 @Table(name = "t_pay")
 public class Pay {
     @Id
@@ -198,5 +197,3 @@ public class Pay {
         this.updateTime = updateTime;
     }
 }
-
-
