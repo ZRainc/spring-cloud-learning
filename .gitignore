@@ -26,3 +26,6 @@ replay_pid*
 # IDEA
 .idea
 /cloud-provider-payment8001/target/
+/cloud-api-commons/target/
+/cloud-consumer-order80/target/
+/mybatis_generator2024/target/
