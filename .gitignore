@@ -29,3 +29,4 @@ replay_pid*
 /cloud-api-commons/target/
 /cloud-consumer-order80/target/
 /mybatis_generator2024/target/
+/cloud-provider-payment8002/target/
