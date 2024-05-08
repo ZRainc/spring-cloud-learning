@@ -30,3 +30,4 @@ replay_pid*
 /cloud-consumer-order80/target/
 /mybatis_generator2024/target/
 /cloud-provider-payment8002/target/
+/cloud-consumer-feign-order80/target/
