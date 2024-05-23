@@ -32,3 +32,4 @@ replay_pid*
 /cloud-provider-payment8002/target/
 /cloud-consumer-feign-order80/target/
 /cloud-gateway9527/target/
+/cloudalibaba-provider-payment9001/target/
