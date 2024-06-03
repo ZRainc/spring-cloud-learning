@@ -40,4 +40,4 @@ seata:
 logging:
   level:
     io:
-      seata: info
+      seata: debug

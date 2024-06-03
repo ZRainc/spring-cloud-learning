@@ -13,7 +13,7 @@ docker run -d --name=consul -p 8500:8500 -p 8600:8600/udp -v consul-data:/consul
 ```shell
 sh startup.sh -m standalone
 ```
-http://localhost:8848
+http://localhost:8848/nacos
 
 ## sentinel
 ```shell
